@@ -573,11 +573,12 @@ font-family: 'PT Serif', serif;
         color: black;
         font-size: 10px;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        padding-left: 3px;
+        padding-left: 2px;
     }
     .cv-button button {
-        font-size: 10px;
+        font-size: 5px;
         margin-left: 0;
+        display: none;
     }
     
     /*--Home 2nd Section--*/
@@ -710,6 +711,7 @@ width: 300px;
     .cv-button button {
         font-size: 10px;
         margin-left: 0;
+        display: none;
     }
     /*--Home 2nd Section--*/
 #userdata
@@ -844,6 +846,7 @@ width: 300px;
     .cv-button button {
         font-size: 10px;
         margin-left: 0;
+        display: none;
     }
    
     /*--Home 2nd Section--*/
