@@ -1085,5 +1085,469 @@ width: 300px;
 }
 
 
+@media (max-width:640px) and (min-width:320px) {
+    #homepage {
+  
+        width: 100%;
+       height: 180vh;
+       
+     }
+     .port h1 {
+         padding-top: 20px;
+         font-size: 16px;
+     }
+     .navbar{
+         position: absolute;
+         margin-left: 40px;
+         margin-top: -40px;
+         top: -50px;
+     }
+     .navbar ul {
+        padding-left: 40px;
+        padding-top: 0;
+        padding-right: 0;
+        
+    }
+    
+    .navbar a {
+        color: black;
+        font-size: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-left: 5px;
+        
+    }
+    .cv-button button {
+        font-size: 5px;
+        margin-left: 0;
+        display: none;
+    }
+    
+    /*--Home 2nd Section--*/
+#userdata
+{
+padding-top: 100px;
+    background-color: coral;
+    height: 1040px;
+}
+.usertext h1  {
+    font-size: 30px;
+}
+.social-icons {
+    display: none;
+}
+
+#userdata img {
+    margin-top: 40px;
+    margin-right: 30px;
+   
+}
+#aboutme {
+    
+    height: 160vh;
+    padding-top: 80px;
+}
+#qualification {
+    width: 100%;
+    height: 180vh;
+    background-color: coral;
+    
+}
+#services {
+    width: 100%;
+    height: 150vh;
+}
+#socialmedia {
+   
+    height: 360vh; 
+    background-color: coral;
+}
+
+#socialmedia .cards {
+    padding-top: 30px;
+    margin-left: 30px;
+
+}
+.cards h1 {
+    padding-right: 70%;
+}
+#facts {
+    width: 100%;
+    height: 150vh;
+}
+.facts p{
+    font-size: 12px;
+}
+.navigations p{
+    font-size: 10px
+}
+#contactus {
+    width: 100%;
+    height: 150vh;
+    background-color: coral;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+#contactus .CU-text h1 {
+font-size: 30px;
+}
+#contactus .CU-text p{
+    font-size: 15px;
+    }
+    .CU-details {
+        padding-top: 20px;
+        text-align: center;
+    }
+ .CU-details p{
+     font-size: 20px;
+ }
+ .CU-right-col {
+     padding-top: 40px;
+ }
+ 
+.CU-right-col textarea {
+width: 300px;
+ }
+ .CU-right-col button{
+     width: 100px;
+ }
+ .footer-links {
+     display: none;
+ }
+ .copyright-text small {
+     position: absolute;
+    left: 20px;
+    
+    
+ }
+ .footer-logo h1{
+     padding-left: 70%;
+ }
+ .footer-logo  button {
+     position: absolute;
+     margin-left: 30%;
+     margin-bottom: 5px;
+ }
+     
+   
+   .side-nav {
+       display: none;
+   }
+}
+
+
+@media (max-width:731px) and (min-width:411px) {
+    #homepage {
+  
+        width: 100%;
+       height: 180vh;
+       
+     }
+     .port h1 {
+         padding-top: 20px;
+         font-size: 16px;
+     }
+     .navbar{
+         position: absolute;
+         margin-left: 40px;
+         margin-top: -40px;
+         top: -50px;
+     }
+     .navbar ul {
+        padding-left: 40px;
+        padding-top: 0;
+        padding-right: 0;
+        
+    }
+    
+    .navbar a {
+        color: black;
+        font-size: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-left: 5px;
+        
+    }
+    .cv-button button {
+        font-size: 5px;
+        margin-left: 0;
+        display: none;
+    }
+    
+    /*--Home 2nd Section--*/
+#userdata
+{
+padding-top: 100px;
+    background-color: coral;
+    height: 1040px;
+}
+.usertext h1  {
+    font-size: 30px;
+}
+.social-icons {
+    display: none;
+}
+
+#userdata img {
+    margin-top: 40px;
+    margin-right: 30px;
+   
+}
+#aboutme {
+    
+    height: 160vh;
+    padding-top: 80px;
+}
+#qualification {
+    width: 100%;
+    height: 180vh;
+    background-color: coral;
+    
+}
+#services {
+    width: 100%;
+    height: 150vh;
+}
+#socialmedia {
+   
+    height: 360vh; 
+    background-color: coral;
+}
+
+#socialmedia .cards {
+    padding-top: 30px;
+    margin-left: 30px;
+
+}
+.cards h1 {
+    padding-right: 70%;
+}
+#facts {
+    width: 100%;
+    height: 150vh;
+}
+.facts p{
+    font-size: 12px;
+}
+.navigations p{
+    font-size: 10px
+}
+#contactus {
+    width: 100%;
+    height: 150vh;
+    background-color: coral;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+#contactus .CU-text h1 {
+font-size: 30px;
+}
+#contactus .CU-text p{
+    font-size: 15px;
+    }
+    .CU-details {
+        padding-top: 20px;
+        text-align: center;
+    }
+ .CU-details p{
+     font-size: 20px;
+ }
+ .CU-right-col {
+     padding-top: 40px;
+ }
+ 
+.CU-right-col textarea {
+width: 300px;
+ }
+ .CU-right-col button{
+     width: 100px;
+ }
+ .footer-links {
+     display: none;
+ }
+ .copyright-text small {
+     position: absolute;
+    left: 20px;
+    
+    
+ }
+ .footer-logo h1{
+     padding-left: 5%;
+ }
+ .footer-logo  button {
+     position: absolute;
+     margin-left: 2%;
+     margin-bottom: 5px;
+ }
+     
+   
+   .side-nav {
+       display: none;
+   }
+}
+
+@media (max-width:653px) and (min-width:280px) {
+    #homepage {
+  
+        width: 100%;
+       height: 180vh;
+       
+     }
+     .port h1 {
+         padding-top: 20px;
+         font-size: 16px;
+     }
+     .navbar{
+         position: absolute;
+         margin-left: 40px;
+         margin-top: -40px;
+         top: -50px;
+     }
+     .navbar ul {
+        padding-left: 40px;
+        padding-top: 0;
+        padding-right: 0;
+        
+    }
+    
+    .navbar a {
+        color: black;
+        font-size: 8px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-left: 5px;
+        
+    }
+    .cv-button button {
+        font-size: 5px;
+        margin-left: 0;
+        display: none;
+    }
+    
+    /*--Home 2nd Section--*/
+#userdata
+{
+padding-top: 100px;
+    background-color: coral;
+    height: 1140px;
+}
+.usertext h1  {
+    font-size: 30px;
+}
+.usertext li {
+    font-size: 40px;
+}
+.social-icons {
+    display: none;
+}
+
+#userdata img {
+    width: 180px;
+    height: 240px;
+    margin-top: 40px;
+    margin-right: 30px;
+   
+}
+#aboutme {
+    
+    height: 160vh;
+    padding-top: 80px;
+}
+#qualification {
+    width: 100%;
+    height: 180vh;
+    background-color: coral;
+    
+}
+#qualification .education{
+    width: 100px;
+}
+#services {
+    width: 100%;
+    height: 150vh;
+}
+#socialmedia {
+   
+    height: 360vh; 
+    background-color: coral;
+}
+
+#socialmedia .cards {
+    padding-top: 30px;
+    margin-left: 30px;
+
+}
+.cards h1 {
+    padding-right: 70%;
+}
+#facts {
+    width: 100%;
+    height: 150vh;
+}
+.facts p{
+    font-size: 12px;
+}
+.navigations p{
+    font-size: 10px
+}
+#contactus {
+    width: 100%;
+    height: 150vh;
+    background-color: coral;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+#contactus .CU-text h1 {
+font-size: 30px;
+}
+#contactus .CU-text p{
+    font-size: 15px;
+    }
+    .CU-details {
+        padding-top: 20px;
+        text-align: center;
+    }
+ .CU-details p{
+     font-size: 20px;
+ }
+ .CU-right-col {
+     padding-top: 40px;
+ }
+ 
+.CU-right-col textarea {
+width: 300px;
+ }
+ .CU-right-col button{
+     width: 100px;
+ }
+ .footer-links {
+     display: none;
+ }
+ .copyright-text small {
+     position: absolute;
+    left: 20px;
+    
+    
+ }
+ .footer-logo h1{
+     padding-left: 70%;
+ }
+ .footer-logo  button {
+     position: absolute;
+     margin-left: 30%;
+     margin-bottom: 5px;
+ }
+     
+   
+   .side-nav {
+       display: none;
+   }
+}
+
+
+
 
 
