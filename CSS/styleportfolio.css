@@ -9,7 +9,7 @@
 #homepage {
   
    margin-top: 5px;
-  height: 120vh;
+  height: 130vh;
 }
 /*--Toolbar --*/
 .toolbar {
@@ -48,7 +48,7 @@
 {
 padding-top: 100px;
     background-color: coral;
-    height: 560px;
+    height: 590px;
 }
 #userdata img {
     width: 260px;
@@ -96,7 +96,7 @@ padding-top: 100px;
 /*--About Me Section--*/
 #aboutme {
     width: 100%;
-    height: 100vh;
+    height: 110vh;
     padding-top: 80px;
 }
 #aboutme .aboutmetext {
@@ -550,7 +550,7 @@ font-family: 'PT Serif', serif;
     #homepage {
   
         width: 100%;
-       height: 180vh;
+       height: 200vh;
        
      }
      .port h1 {
@@ -586,7 +586,7 @@ font-family: 'PT Serif', serif;
 {
 padding-top: 100px;
     background-color: coral;
-    height: 1040px;
+    height: 1080px;
 }
 
 #userdata img {
@@ -595,7 +595,7 @@ padding-top: 100px;
 }
 #aboutme {
     
-    height: 160vh;
+    height: 170vh;
     padding-top: 80px;
 }
 #qualification {
@@ -606,11 +606,11 @@ padding-top: 100px;
 }
 #services {
     width: 100%;
-    height: 130vh;
+    height: 140vh;
 }
 #socialmedia {
    
-    height: 360vh; 
+    height: 380vh; 
     background-color: coral;
 }
 
@@ -624,7 +624,7 @@ padding-top: 100px;
 }
 #facts {
     width: 100%;
-    height: 150vh;
+    height: 160vh;
 }
 .facts p{
     font-size: 12px;
@@ -634,7 +634,7 @@ padding-top: 100px;
 }
 #contactus {
     width: 100%;
-    height: 150vh;
+    height: 160vh;
     background-color: coral;
     background-position: center;
     background-size: cover;
@@ -1374,11 +1374,15 @@ width: 300px;
     
  }
  .footer-logo h1{
-     padding-left: 5%;
+     left: 2%;
+     
+     position: absolute;
+     
  }
  .footer-logo  button {
-     position: absolute;
-     margin-left: 2%;
+    position: absolute;
+    left: 8%;
+     
      margin-bottom: 5px;
  }
      
